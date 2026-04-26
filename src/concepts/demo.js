@@ -5,6 +5,6 @@
  */
 export const demoComponent = (element) => {
 
-    console.log('')
+    console.log('demoComponent');
 
 }
