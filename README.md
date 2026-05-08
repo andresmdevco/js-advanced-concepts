@@ -2,7 +2,7 @@
 
 Colección de ejercicios prácticos sobre conceptos avanzados de JavaScript asíncrono, construida con **Vite + Vanilla JS**. Cada archivo en `src/concepts/` explora un concepto diferente.
 
-## Tecnologías
+## 🛠 Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
@@ -22,7 +22,7 @@ Colección de ejercicios prácticos sobre conceptos avanzados de JavaScript así
 | 09 | `09-generators.js` | Funciones generadoras (`function*`) e iteradores |
 | 10 | `10-generator-async.js` | Generadores asíncronos (`async function*`) |
 
-## Instalación y uso
+## ⚙️ Instalación y uso
 
 ```bash
 git clone https://github.com/andresmdevco/js-advanced-concepts.git
